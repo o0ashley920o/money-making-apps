@@ -1,0 +1,16 @@
+{
+  "name": "money-making-apps",
+  "version": "1.0.0",
+  "description": "A website listing money-making and crypto apps with referral links, tested and recommended by me.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server --open=index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
