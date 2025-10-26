@@ -37,3 +37,18 @@ Technical Requirements
 * Analytics and export features
 * Modern tech stack (React/Next.js frontend suggested)
 * To be pushed to GitHub pages for deployment
+
+
+Create me an app and website to run through Docker, be hosted on GitHub pages, use react and vue framework as well as having a database connected on supabase.
+
+The site will list apps which will show some of the following information and data:
+- Online surveys 
+- Signups and rewards
+- Learn and earn quizzes 
+- Crypto and NFT gaming 
+- Earning evidence 
+- Discounts and coupons 
+- Referral links 
+- Tips and tricks  
+
+There is also to be a members area where they can add apps they are interested in to a Wishlist as well as signing up from the list.
